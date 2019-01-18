@@ -1,4 +1,25 @@
+/* making syle awsome */
 h1 {
     color: red;
     font-size: 98px;
+}
+
+p {
+    color: purple;
+    font-size: 24px;
+}
+
+table {
+    color: blue;
+    font-size: 24px;
+}
+
+#first {
+    color: orange;
+    font-size: 24px;
+}
+
+#second {
+    color: black;
+    font-size: 24px;
 }
