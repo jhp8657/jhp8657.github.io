@@ -1,0 +1,19 @@
+body {
+    background:url(DV.jpg);
+    height: 500px;
+  }
+
+#display-4
+{
+    color: red;
+    
+}
+
+nav {
+    color: red;
+
+}
+
+table {
+    color: white;
+}
