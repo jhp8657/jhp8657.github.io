@@ -33,7 +33,14 @@ img.class {
     height: 480px;
 }
 
-body {
-    background-color: cyan;
-    background-image: url(DV.jpg);
+  div {
+    background:url('http://i.stack.imgur.com/tQTRW.gif') repeat;
+    height: 500px;
+  }
+  
+  span {
+    width: 108px;
+    height: 18px;
+    display: block;
+    background:url('http://i.stack.imgur.com/tQTRW.gif') repeat-x left;
   }
