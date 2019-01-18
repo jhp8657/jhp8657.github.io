@@ -23,3 +23,17 @@ table {
     color: black;
     font-size: 24px;
 }
+
+#cat {
+    width: 480px;
+}
+
+img.class {
+    width: 700px;
+    height: 480px;
+}
+
+body {
+    background-color: cyan;
+    background-image: url(DV.jpg);
+  }
